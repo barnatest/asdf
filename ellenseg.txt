@@ -1,0 +1,13 @@
+szorny_nev;eletpont;sebzes
+Goblin;30;5
+Ork;40;6
+Sarkany;100;15
+Csontvaz;25;4
+Beholder;25;8
+Meh;2;2
+Angyal;70;9
+Owlbear;50;7
+Farkas;20;4
+Unikornis;70;2
+Troll;50;7
+Tolvaj;25;4
