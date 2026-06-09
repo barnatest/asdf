@@ -11,3 +11,4 @@ Farkas;20;4
 Unikornis;70;2
 Troll;50;7
 Tolvaj;25;4
+HIHIHIHA
